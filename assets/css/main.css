@@ -101,7 +101,7 @@ img {
 /* Navbar  start */
 #navigation {
   background: lightskyblue;
-  border: 1px solid #82BC00;
+  border: 1px solid black;
   color: #fff;
   padding-top: 50px;
   text-align: center;
@@ -200,14 +200,16 @@ img {
 #header .top-header #menu:hover span,
 #header .top-header #menu:hover span:after,
 #header .top-header #menu:hover span:before {
-  background: #82BC00;
+  background: black;
 }
 
 #header .banner {
   margin: 50px;
 }
+
+/* title name */
 #header .banner h1 {
-  color: #82BC00;
+  color: lightskyblue;
   font-size: 42px;
   font-weight: 400;
   text-transform: uppercase;
