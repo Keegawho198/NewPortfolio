@@ -658,6 +658,14 @@ img {
   background: #007bb6;
   border: 1px solid #007bb6;
 }
+
+#linken{
+  color: white;
+}
+
+#githubLink{
+  color: white;
+}
 /* Feedback Section End */
 /* Footer Section Start */
 #footer {
