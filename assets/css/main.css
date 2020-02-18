@@ -31,6 +31,12 @@ ul li {
 .row {
   padding: 90px 0 92px;
 }
+
+#NameLogo{
+  width: 25%;
+  height: 25%;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -111,7 +117,7 @@ img {
 }
 #navigation .logo {
   margin: 0 auto;
-  padding: 30px;
+  padding: 5px;
   width: 100px;
 }
 #navigation .nav li {
@@ -290,7 +296,7 @@ img {
   top: 24%;
 }
 #works .grid-right .browse-box .more a {
-  color: #82bc00;
+  color: lightskyblue;
   font-size: 20px;
   font-weight: 700;
   line-height: 23px;
@@ -298,7 +304,7 @@ img {
 }
 #works .grid-right .browse-box .more a i {
   font-size: 50px;
-  color: #82bc00;
+  color: lightblue;
   padding: 12px;
 }
 #works .large .overlay a {
