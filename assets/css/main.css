@@ -107,7 +107,7 @@ img {
 /* Navbar  start */
 #navigation {
   background: lightskyblue;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   color: #fff;
   padding-top: 50px;
   text-align: center;
@@ -534,6 +534,14 @@ img {
 }
 /* Blog Section End */
 /* Feedback Section Start */
+#me{
+  /* height: 260px;
+  width: 300px;
+  border-radius: 50%; */
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
 #feedback {
   background: url(../img/backgrounds/imgfooter.jpg);
   background-size: cover;
