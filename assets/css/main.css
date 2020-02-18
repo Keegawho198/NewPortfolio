@@ -73,18 +73,18 @@ img {
   background: #ffffff;
 }
 .btn-common {
-  background: #82BC00;
-  border: 1px solid #82BC00;
+  background: lightskyblue;
+  border: 1px solid whitesmoke;
 }
 .btn-border:hover {
-  color: #82BC00;
+  color: black;
 }
 .btn-border:hover:after {
   height: 100%;
 }
 .btn-common:hover {
-  color: #82BC00;
-  background: #82BC00;
+  color: black;
+  background: lightblue;
   border: 1px solid #82BC00;
 }
 .btn-common:hover:after {
@@ -100,7 +100,7 @@ img {
 }
 /* Navbar  start */
 #navigation {
-  background: #82BC00;
+  background: lightskyblue;
   border: 1px solid #82BC00;
   color: #fff;
   padding-top: 50px;
