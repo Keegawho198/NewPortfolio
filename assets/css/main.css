@@ -348,6 +348,11 @@ img {
 #works .grid-box:hover .overlay {
   opacity: 1;
 }
+
+#browseAll:hover{
+  background-color: lightcyan;
+}
+
 /* Works Section End */
 /* Testimonial Section Start */
 #testimonial {
