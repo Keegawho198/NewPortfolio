@@ -137,7 +137,7 @@ img {
 /* Header Section Start */
 #header {
   width: 100%;
-  background: url(../img/backgrounds/banner.jpg);
+  background: url(../img/backgrounds/coding.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -224,7 +224,7 @@ img {
 }
 #header .banner .scroll a i {
   font-size: 48px;
-  color: #82BC00;
+  color: lightskyblue;
   padding: 12px;
   width: 68px;
   height: 68px;
@@ -236,7 +236,7 @@ img {
   transition: all 0.3s ease;
 }
 #header .banner .scroll a i:hover {
-  background: #82BC00;
+  background: lightskyblue;
   color: #ffffff;
 }
 /* Header Section End */
