@@ -672,6 +672,10 @@ img {
   border: 1px solid #007bb6;
 }
 
+.link{
+  color: white;
+}
+
 #linken{
   color: white;
 }
@@ -713,6 +717,16 @@ img {
   border: black;
   /* background-color: lightgrey; */
   width: 300px;
+  /* border: 15px solid green; */
+  /* padding: 50px;
+  margin: 20px; */
+}
+
+.projectTech{
+  border: black;
+  /* background-color: lightgrey; */
+  width: 300px;
+  margin-top: 10px;
   /* border: 15px solid green; */
   /* padding: 50px;
   margin: 20px; */
