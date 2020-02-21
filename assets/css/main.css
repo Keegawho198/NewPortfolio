@@ -617,7 +617,7 @@ img {
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 12px;
 }
 #feedback .address .contact-info {
   padding-bottom: 30px;
@@ -706,3 +706,142 @@ img {
   color: #6c9c01;
 }
 /* Footer Section End */
+
+
+/* for project page */
+.projectDes{
+  border: black;
+  /* background-color: lightgrey; */
+  width: 300px;
+  /* border: 15px solid green; */
+  /* padding: 50px;
+  margin: 20px; */
+}
+
+
+.projects {
+  background: url(../img/backgrounds/imgfooter.jpg);
+  background-size: cover;
+}
+.projects .section-title {
+  color: #ffffff;
+}
+.projects .input-group {
+  padding-bottom: 20px;
+}
+.projects .input-group .input-group-addon {
+  border-radius: 0px;
+  padding: 14px 26px;
+  background-color: #82bc00;
+  border: none;
+  position: relative;
+}
+.projects .input-group .input-group-addon i {
+  color: #ffffff;
+  font-size: 26px;
+  width: 24px;
+  height: 24px;
+}
+.projects .input-group .form-control {
+  color: #898989;
+  font-size: 22px;
+  font-weight: 300;
+  padding: 15px 20px;
+  height: 60px;
+  border: 0;
+  border-radius: 0px;
+}
+.projects .input-group .form-control:focus {
+  box-shadow: none;
+}
+.projects .input-group .large {
+  height: 120px;
+}
+.projects .btn-green {
+  color: #ffffff;
+  font-weight: 400;
+  background: #6c9c01;
+  font-size: 22px;
+  width: 100%;
+  border-radius: 0px;
+  text-transform: uppercase;
+  height: 60px;
+}
+.projects .btn-green i {
+  float: left;
+  width: 74px;
+  background: #82BC00;
+  margin: -12px;
+  line-height: 56px;
+  height: 60px;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+
+.projects .address {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+}
+.projects .address h2 {
+  font-size: 25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0px;
+  padding-bottom: 12px;
+}
+.feedprojects .address .contact-info {
+  padding-bottom: 30px;
+}
+.projects .address .contact-info li {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.projects .address .contact-info li i {
+  padding-right: 15px;
+  font-size: 15px;
+}
+.projects .address .social-icon li {
+  float: left;
+}
+.projects .address .social-icon li a {
+  display: inline-block;
+  color: #ffffff;
+  margin: 0px 5px;
+}
+.projects .address .social-icon li a i {
+  font-size: 18px;
+  width: 48px;
+  height: 48px;
+  border: 1px solid #ffffff;
+  text-align: center;
+  line-height: 48px;
+  vertical-align: middle;
+  -webkit-transition: all 0.2s linear 0s;
+  -moz-transition: all 0.2s linear 0s;
+  transition: all 0.2s linear 0s;
+}
+.projects .address .social-icon li a .fa-twitter:hover {
+  background: #00aced;
+  border: 1px solid #00aced;
+}
+.projects .address .social-icon li a .fa-facebook:hover {
+  background: #3b5998;
+  border: 1px solid #3b5998;
+}
+.projects .address .social-icon li a .fa-google-plus:hover {
+  background: #dd4b39;
+  border: 1px solid #dd4b39;
+}
+.projects .address .social-icon li a .fa-youtube:hover {
+  background: #bb0000;
+  border: 1px solid #bb0000;
+}
+.projects .address .social-icon li a .fa-linkedin:hover {
+  background: #007bb6;
+  border: 1px solid #007bb6;
+}
