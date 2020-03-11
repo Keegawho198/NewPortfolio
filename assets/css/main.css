@@ -43,13 +43,14 @@ img {
 }
 .section-title {
   text-align: left;
-  font-size: 52px;
-  font-weight: 400;
-  color: #454545;
-  margin: 0 10px;
-  padding: 0;
-  text-transform: uppercase;
-  margin-bottom: 50px;
+    font-size: 52px;
+    font-weight: 400;
+    color: #454545;
+    margin: 0 10px;
+    padding: 0;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    margin-top: -20px;
 }
 .section-title span {
   font-weight: 900;
@@ -543,8 +544,8 @@ img {
   /* height: 260px;
   width: 300px;
   border-radius: 50%; */
-  margin-top: -20px;
-  margin-bottom: 30px;
+  margin-top: -10px;
+  margin-bottom: 39px;
 }
 
 #feedback {
